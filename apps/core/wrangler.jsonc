@@ -13,12 +13,7 @@
     "mode": "smart"
   },
   "workers_dev": true,
-  "routes": [
-    {
-      "pattern": "douban-bridge.baran.wang",
-      "custom_domain": true
-    }
-  ],
+  "routes": [],
   "dev": {
     "port": 8787
   },
