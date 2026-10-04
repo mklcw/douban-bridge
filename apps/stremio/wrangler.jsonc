@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "stremio-addon-douban",
+  "name": "douban-bridge-core",
   "main": "src/index.ts",
   "compatibility_date": "2025-11-28",
   "compatibility_flags": ["nodejs_compat"],
